@@ -29,7 +29,7 @@
 	"dependencies": {
 		"grunt": ">=0.3.0",
 		"node-smushit": ">=0.3.0",
-		"wrench": "*"
+		"wrench": ">=1.5.9"
 	},
 	"engines": {
 		"node": ">=0.6.0"
