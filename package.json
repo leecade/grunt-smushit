@@ -28,7 +28,7 @@
 	},
 	"dependencies": {
 		"grunt": ">=0.3.0",
-		"node-smushit": ">=0.3.0",
+		"node-smushit": ">=0.5.1",
 		"wrench": "*"
 	},
 	"engines": {
