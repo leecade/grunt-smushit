@@ -27,7 +27,7 @@
 		"url": "git://github.com/heldr/grunt-smushit.git"
 	},
 	"dependencies": {
-		"grunt": ">=0.3.0",
+		"grunt": ">=1.1.0",
 		"node-smushit": ">=0.3.0",
 		"wrench": "*"
 	},
